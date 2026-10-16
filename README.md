@@ -1,8 +1,14 @@
-## Olá, seja bem-vindo(a) ao meu Perfil!
+## Olá, me chamo Mateus e seja bem-vindo(a)
+Tenho 26 anos e estou embarcando numa jornada de aprendizado em programação
 
-## Sobre mim:
-Me chamo Mateus tenho 26 anos sou apaixonado por jogos é tecnologia atualmente estudo 
- 
- desenvolvimento Web.  
- 
- 
+## Oque estou apredendo?
+
+- HTML5 - estrutura das páginas
+- CSS3  - deixando tudo visualmente organizado
+- Java Script - parte lógica do site
+
+  ## Projetos em destaque
+  - Pokédex- minha primeira página com busca e visualização
+  - Controle Financeiro - organizando as finanças com tecnologia
+  - Menu de pesquisa GitHub - Objetivo encontrar usuarios por mecanismo de busca
+
