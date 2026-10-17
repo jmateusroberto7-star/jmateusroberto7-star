@@ -34,5 +34,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmateusroberto7-star/jmateusroberto7-star/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jmateusroberto7-star/jmateusroberto7-star/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+steps:
+  - name: generate pacman-contribution-graph.svg
+    uses: abozanona/pacman-contribution-graph@main
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      games: 'pacman'
 
+
+  - name: push pacman-contribution-graph.svg to the output branch
+    uses: crazy-max/ghaction-github-pages@v3.1.0
+    with:
+      target_branch: pacman-output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ###
