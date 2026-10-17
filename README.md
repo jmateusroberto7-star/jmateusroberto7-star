@@ -18,6 +18,13 @@
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=jmateusroberto7-star&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -27,11 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmateusroberto7-star/jmateusroberto7-star/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jmateusroberto7-star/jmateusroberto7-star/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=jmateusroberto7-star&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
