@@ -1,10 +1,11 @@
 <h2 data-importer="text" align="center">Olá seja bem-vindo(a) ao Perfil!</h2>
 
-###
+ 
 
-<h4 data-importer="text" align="left">Meu nome é Mateus tenho 26 anos sou apaixonado por jogos | tecnologia.<br>Atualmente estudo programação na área do Full Stack.<br><br>Tecnologias que uso:</h4>
+<h4 data-importer="text" align="left">Meu nome é Mateus tenho 26 anos sou apaixonado por jogos e tecnologia Atualmente estudo programação 
+<br> Onde aprendo acriar e desenvolver sites para a Web
 
-###
+ <h2 data-importer="text" aling="center"> Tecnologias que uso: </h2>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
